@@ -33,9 +33,3 @@ simply.on('accelData', function(e) {
 	//simple.title()
 });
 
-function abs(x){
-	if (x < 0){
-		x = -x;
-	}
-	return x;
-}
